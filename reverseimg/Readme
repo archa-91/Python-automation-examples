@@ -1,0 +1,1 @@
+Reverse is a png image with order of bytes reversed and the the nibbles also reversed. The python script reverse_png.py reverses the bytes to reconstruct the valid image.
