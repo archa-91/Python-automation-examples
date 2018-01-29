@@ -1,0 +1,1 @@
+An image is encoded with a secret data using the encrypt.py. Understand the working and obtain the secret data. PIL library is used to work with the image operations.
